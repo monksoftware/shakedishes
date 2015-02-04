@@ -1,0 +1,25 @@
+*, html, body { margin: 0; padding: 0 }
+
+html, body { height: 100%; }
+
+body { 
+  background: #3F51B5; 
+  color: #FFC107; 
+  font-family: 'Roboto', sans-serif; 
+  text-align: center;
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  text-align: center;
+  width: 100%;
+}
+
+h1 { 
+  font-size: 6em;
+}
+
+h2 { 
+  font-size: 2em;
+}
